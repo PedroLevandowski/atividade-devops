@@ -1,0 +1,13 @@
+{
+  "name": "atividade-devops",
+  "version": "1.0.0",
+  "description": "Hello World em Node.js com Docker e GitHub Actions",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.3.0"
+  }
+}
